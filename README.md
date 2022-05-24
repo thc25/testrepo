@@ -5,3 +5,5 @@ Creating this repo just to play around with git commands.
 
 ## Intended audience
 Just me!
+
+$$e = mc^2$$
